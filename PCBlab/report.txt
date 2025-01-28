@@ -1,0 +1,8 @@
+Info: Processing symbol 'BT1:'.
+Info: Processing symbol 'U2:Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm'.
+Info: Processing symbol 'U4:MOUDLE14P-SMD-2.54-21X17.8MM'.
+Error: Cannot add BT1 (no footprint assigned).
+Error: Cannot add U4 (footprint 'MOUDLE14P-SMD-2.54-21X17.8MM' not found).
+
+
+Info: Total warnings: 0, errors: 2.
